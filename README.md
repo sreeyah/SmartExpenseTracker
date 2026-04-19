@@ -45,6 +45,7 @@ A modern personal finance tracker built with Node.js, Express, and SQLite. It in
 - Data is persisted locally with SQLite in `data/tracker.db`.
 - Use the export button to save your complete transaction history.
 ## Screenshots Output
+<img width="1280" height="680" alt="image" src="https://github.com/user-attachments/assets/f19503ee-7d54-4ee1-82b0-3fd3f6755677" />
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f1e5b229-7180-47d9-9627-69571e3d44b0" />
 
